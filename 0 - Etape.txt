@@ -1,0 +1,38 @@
+
+
+Etape 1 : étudier le site Internet / Le projet + fonder les bases html du premier site et avoir l'inspi
+
+Etape 2 : construire le site Internet
+
+
+Etape 3 : inscrire dans la durée le site Internet (rendre tout clean, modifiable pour qlq années)
+
+
+
+
+
+
+
+
+
+A faire :
+- page de chargement
+- page d'erreur (nous ne pouvons accéder à telle page) error 404
+- animer le logo en 2D
+- faire une animation 3D du logo
+- faire une barre latérale basse pour l'interface de l'iPhone
+
+- RETAPER MON SITE INTERNET
+
+
+
+
+Etape de construction du site Internet :
+
+
+
+
+
+Amazing shots :
+https://www.youtube.com/watch?v=0VvWx_i-0Z4 (John Fish)
+
